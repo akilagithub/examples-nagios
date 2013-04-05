@@ -1,0 +1,4 @@
+examples-nagios
+===============
+
+Nagios examples
